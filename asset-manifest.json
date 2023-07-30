@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-dictapp/static/css/main.d19ac554.css",
+    "main.js": "/reactjs-dictapp/static/js/main.cf435856.js",
+    "static/js/787.0157ba9a.chunk.js": "/reactjs-dictapp/static/js/787.0157ba9a.chunk.js",
+    "index.html": "/reactjs-dictapp/index.html",
+    "main.d19ac554.css.map": "/reactjs-dictapp/static/css/main.d19ac554.css.map",
+    "main.cf435856.js.map": "/reactjs-dictapp/static/js/main.cf435856.js.map",
+    "787.0157ba9a.chunk.js.map": "/reactjs-dictapp/static/js/787.0157ba9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d19ac554.css",
+    "static/js/main.cf435856.js"
+  ]
+}
